@@ -1,0 +1,6 @@
+{
+  "name": "Gestión de Ferretería y Facturación",
+  "description": "Sistema integral de ferretería con catálogo de inventario en tiempo real, facturación electrónica automática, recepción de pedidos por WhatsApp con pasarela de mensajería, pasarela de pago segura y sincronización Firebase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
